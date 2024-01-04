@@ -5,26 +5,26 @@ image::logo.png[GDNext,300,100,float="center",align="center"]
 [cols="50%,50%",frame=none,grid=none]
 |====
 
-2+a| === About this project / Про проект |  |
+2+a| === About this project / Про проект
 
 a| In August 2025, Ukraine will officially introduce Open Banking. This implies that banks are obliged to open their
 public APIs and allow third-party payment service providers to initiate payments and access the account information of
 their clients, subject to their consent. The Open Banking framework opens up plenty of opportunities for the Ukrainian
 financial market: credit and non-credit financial institutions, various payment service providers, payment agents,
 and e-money institutions.
- +
+
 
 The Open Banking Ukraine project is developed by the link:https://gdnext.com/[GD Next GmbH] team in Ukraine based on
 the European PSD2 standard and Open Banking specifications adopted by the
 link:https://www.ema.com.ua/business/openapigroup/[Ukrainian Open API Group]. Our project is designed for all members
 of the financial system, in particular, for the Open Banking interface development teams.
- +
+
 
 This project doesn't cover any security-related issues and solutions for third-party providers' authorisation based on
 QWAC/QSeal eIDAS certificate validation within core banking. However, having relevant expertise in the European market,
 our team can offer additional technical consulting and efficient implementation of the
 link:https://openbankingsuite.gdnext.com/index.html[Open Banking Compliance Suite] in Ukraine and other EU countries.
- +
+
 
 The Open Banking Ukraine project provides a YAML file for API and models generation with Swagger OpenAPI mechanisms.
 Currently, it defines the data models for the main payment services in Ukraine: single payments, account information
@@ -46,20 +46,18 @@ link:https://www.ema.com.ua/business/openapigroup/[Open API Group]. Наш пр�
 запропонувати вам додаткові технічні консультації та ефективне впровадження
 link:https://openbankingsuite.gdnext.com/index.html[Комплексу рішень для Відкритого Банкінгу] в Україні та інших країнах
 ЄС.
- +
- +
 
 Проект Open Banking Ukraine надає для користування YAML файл, призначений для генерації API та моделей за допомогою
 механізмів Swagger OpenAPI. Наразі він визначає моделі даних для основних платіжних послуг в Україні: разові платежі,
 згода користувача на отримання інформації за рахунком та наступні інформаційні послуги за рахунком: баланс та історія
 транзакцій.
 
-2+a| === Documentation / Документація | |
+2+a| === Documentation / Документація
 
 
 a| We follow the official link:https://www.berlin-group.org/openfinance-downloads[Berlin Group Open Finance framework
 specifications] which are taken as a basis and adopted by the Ukrainian Open API Group:
- +
+
 
 . openFinance API Framework - XS2A API as PSD2 Interface Implementation Guidelines
 
@@ -100,16 +98,14 @@ Group], які прийняті за основу та адаптуються У
 * Постанова НБУ #58 від 03.05.2023 “Положення про автентифікацію та застосування посиленої автентифікації на платіжному
 ринку”
 
-2+a| === Development / Розробка | |
+2+a| === Development / Розробка
 
 a| If you have an interest in the future implementation of Open Banking standards in Ukraine we are open to further
 cooperation. Please feel free to provide your ideas and visions for market-specific use cases in Ukraine.
- +
+
 
 GD Next team will deliver updates on YAML file according to Berlin Group official document changes or updates from
 Ukrainian link:https://www.ema.com.ua/business/openapigroup/[Open API Group].
- +
- +
 
 We recommend to subscribe to our project and stay tuned.
 
@@ -123,22 +119,22 @@ a| Якщо ви зацікавлені у майбутньому впровад
 Ми рекомендуємо підписатись на наш проект та слідкувати за новинами.
 
 
-2+a| === License / Ліцензія | |
+2+a| === License / Ліцензія
 
 a| This project is licensed under the Apache License version 2.0, see the link:LICENSE[License] file for details.
 
 a| Цей проект ліцензовано відповідно до Apache License version 2.0, для додаткової інформації дивіться файл
 link:LICENSE[Ліцензії].
 
-2+a| === Contacts / Контакти | |
+2+a| === Contacts / Контакти
 
 a| If you wish to participate in the Ukrainian Open Banking YAML file development or you notice any inaccuracies or
 errors, please create a corresponding pull request or create an issue in this project repository or contact us directly
 via email below.
- +
+
 
 Email for additional clarifications & support:
- +
+
 
 psd2@gdnext.com
 
