@@ -76,7 +76,7 @@ authentication (SCA) and secure open standards of communication (CSC)
 
 * Law of Ukraine "On Payment Services"
 
-* Bylaw of NBU #58 dated 03.05.2023 "Regulation on Authentication and App
+* Bylaw of NBU #58 dated 03.05.2023 "Regulation on Authentication and Application of Enhanced Authentication in the Payment Market"
 
 a| Ми дотримуємося офіційних специфікацій Європейського
 link:https://www.berlin-group.org/openfinance-downloads[стандарту Відкритого Банкінгу та Відкритих Фінансів Berlin
